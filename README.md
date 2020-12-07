@@ -1,5 +1,5 @@
 # Google-Clander-WH
-Google Clanader Webhook, to perform operations like creating newEvent, Calander, Reminder etc. I have made this using Google Apps Script (GAS). Use of this webhook is very simple and easy. You just have to post the code from client end to webhook and it'll execute and do the job. Also feel free to use these code on your own projects. 
+Google Calendar Webhook, to perform operations like creating newEvent, Calendar, Reminder etc. I have made this using Google Apps Script (GAS). Use of this webhook is very simple and easy. You just have to post the code from client end to webhook and it'll execute and do the job. Also feel free to use these code on your own projects. 
 
 
 ### Useful Links
